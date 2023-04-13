@@ -1,5 +1,5 @@
 ### About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cookie&size=30&pause=1000&color=0B12F7&vCenter=true&width=550&lines=Hi%2C+this+is+Freddie%2C+a+data+science+and+machine+learning+lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cookie&size=30&pause=1000&color=092FF7&background=FFFCFB&width=550&lines=Hi%2C+this+is+Freddie%2C+a+data+science+and+machine+learning+lover)](https://git.io/typing-svg)
 
 ### Languages
 
